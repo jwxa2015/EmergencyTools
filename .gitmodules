@@ -1,0 +1,3 @@
+[submodule "usbrip"]
+	path = usbrip
+	url = https://github.com/snovvcrash/usbrip.git
