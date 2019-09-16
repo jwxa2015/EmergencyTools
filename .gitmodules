@@ -1,3 +1,6 @@
 [submodule "usbrip"]
 	path = usbrip
 	url = https://github.com/snovvcrash/usbrip.git
+[submodule "LinuxCheck"]
+	path = LinuxCheck
+	url = https://github.com/al0ne/LinuxCheck.git
